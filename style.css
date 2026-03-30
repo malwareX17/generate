@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bungee&display=swap');
+
+* {
+  background-color: powderblue;
+}
+
+body {
+  text-align: center;
+  align-items: center;
+  display: flex;
+
+}
+
+h1 {
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  background-color: yellow;
+  color: black;
+  width: 200px;
+}
